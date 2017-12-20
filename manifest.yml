@@ -1,0 +1,8 @@
+---
+applications:
+- name: central-config
+  random-route: false
+  host: central-config
+  instances: 3
+  memory: 756M
+  path: target/central-config-0.0.1.jar

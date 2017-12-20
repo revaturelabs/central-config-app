@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: central-config
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/revaturelabs/central-config
+server:
+  port: ${PORT:8080}
