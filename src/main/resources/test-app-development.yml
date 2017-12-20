@@ -1,0 +1,6 @@
+app:
+  data:
+    messages:
+    - hello
+      good-bye
+      test-message
