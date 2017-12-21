@@ -1,2 +1,2 @@
 # central-config
-This is a test repo for storing central configurations for apps
+This is a test repo for the central config server
