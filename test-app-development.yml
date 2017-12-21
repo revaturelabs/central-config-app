@@ -1,8 +1,8 @@
 app:
   data:
     messages:
-    - test-message
-      test-message-1
-      test-message-2
-      test-message-3
+    - test-message,
+      test-message-1,
+      test-message-2,
+      test-message-3,
       test-message-4
